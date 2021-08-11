@@ -1,0 +1,16 @@
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.exe
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.deps.json
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.runtimeconfig.json
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.runtimeconfig.dev.json
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.dll
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\ref\billetes.dll
+C:\Users\andyc\Desktop\billetes\billetes\bin\Debug\net5.0\billetes.pdb
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.csproj.AssemblyReference.cache
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.AssemblyInfoInputs.cache
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.AssemblyInfo.cs
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.dll
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\ref\billetes.dll
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.pdb
+C:\Users\andyc\Desktop\billetes\billetes\obj\Debug\net5.0\billetes.genruntimeconfig.cache
